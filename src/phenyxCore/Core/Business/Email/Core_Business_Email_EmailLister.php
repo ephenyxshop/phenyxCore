@@ -1,6 +1,6 @@
 <?php
 
-namespace EphenyxShop\PhenyxCore\Core\Email;
+namespace EphenyxShop\phenyxCore\Core\Email;
 
 class Core_Business_Email_EmailLister {
 

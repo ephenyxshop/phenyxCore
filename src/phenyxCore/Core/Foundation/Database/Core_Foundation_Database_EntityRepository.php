@@ -1,11 +1,11 @@
 <?php
 
-namespace EphenyxShop\PhenyxCore\Core\Foundation\Database;
+namespace EphenyxShop\phenyxCore\Core\Foundation\Database;
 
-use EphenyxShop\PhenyxCore\Core\Foundation\Database\Core_Foundation_Database_EntityManager;
-use EphenyxShop\PhenyxCore\Core\Foundation\Database\Core_Foundation_Database_EntityMetaData;
-use EphenyxShop\PhenyxCore\Core\Foundation\Database\EntityManager\Core_Foundation_Database_EntityManager_QueryBuilder;
-use EphenyxShop\PhenyxCore\Core\Foundation\Database\Core_Foundation_Database_Exception;
+use EphenyxShop\phenyxCore\Core\Foundation\Database\Core_Foundation_Database_EntityManager;
+use EphenyxShop\phenyxCore\Core\Foundation\Database\Core_Foundation_Database_EntityMetaData;
+use EphenyxShop\phenyxCore\Core\Foundation\Database\EntityManager\Core_Foundation_Database_EntityManager_QueryBuilder;
+use EphenyxShop\phenyxCore\Core\Foundation\Database\Core_Foundation_Database_Exception;
 /**
  * Class Core_Foundation_Database_EntityRepository
  *

@@ -1,8 +1,8 @@
 <?php
 
-namespace EphenyxShop\PhenyxCore\Core\Business;
+namespace EphenyxShop\phenyxCore\Core\Business;
 
-use EphenyxShop\PhenyxCore\Core\Foundation\Database;
+use EphenyxShop\phenyxCore\Core\Foundation\Database;
 /**
  * Class Core_Business_CMS_CMSRepository
  *

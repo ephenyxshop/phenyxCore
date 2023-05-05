@@ -1,6 +1,6 @@
 <?php
 
-namespace EphenyxShop\PhenyxCore\Core\Foundation\Exception;
+namespace EphenyxShop\phenyxCore\Core\Foundation\Exception;
 
 /**
  * Class Core_Foundation_Exception_Exception

@@ -1,8 +1,8 @@
 <?php
 
-namespace EphenyxShop\PhenyxCore\Core\Foundation\Filesystem;
+namespace EphenyxShop\phenyxCore\Core\Foundation\Filesystem;
 
-use EphenyxShop\PhenyxCore\Core\Foundation\Filesystem\Core_Foundation_FileSystem_Exception;
+use EphenyxShop\phenyxCore\Core\Foundation\Filesystem\Core_Foundation_FileSystem_Exception;
 /**
  * Class Core_Foundation_FileSystem_FileSystem
  *

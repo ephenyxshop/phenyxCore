@@ -1,10 +1,10 @@
 <?php
 
-namespace EphenyxShop\PhenyxCore\Adapter;
+namespace EphenyxShop\phenyxCore\Adapter;
 
-use EphenyxShop\PhenyxCore\Core\Foundation\Core_Foundation_Database_EntityMetaData;
+use EphenyxShop\phenyxCore\Core\Foundation\Core_Foundation_Database_EntityMetaData;
 
-use EphenyxShop\PhenyxCore\Adapter\Adapter_Exception;
+use EphenyxShop\phenyxCore\Adapter\Adapter_Exception;
 /**
  * Class Adapter_EntityMetaDataRetriever
  *

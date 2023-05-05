@@ -1,7 +1,7 @@
 <?php
 
 
-namespace EphenyxShop\PhenyxCore\Core\Foundation\Database;
+namespace EphenyxShop\phenyxCore\Core\Foundation\Database;
 /**
  * Interface Core_Foundation_Database_DatabaseInterface
  *
