@@ -1,6 +1,5 @@
 <?php
 
-namespace EphenyxShop\PhenyxCore;
 /**
  * Class ParamGrid
  *

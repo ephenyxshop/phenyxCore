@@ -1,5 +1,4 @@
 <?php
-namespace EphenyxShop\PhenyxCore;
 /**
  * Class ParamToolBar
  *
