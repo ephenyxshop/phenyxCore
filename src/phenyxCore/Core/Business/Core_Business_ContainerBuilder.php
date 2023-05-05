@@ -1,6 +1,5 @@
 <?php
 
-namespace EphenyxShop\phenyxCore\Core;
 
 /**
  * Class Core_Business_ContainerBuilder

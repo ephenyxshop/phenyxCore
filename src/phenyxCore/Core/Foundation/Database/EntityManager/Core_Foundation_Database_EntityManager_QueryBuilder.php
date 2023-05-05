@@ -1,9 +1,5 @@
 <?php
 
-namespace EphenyxShop\phenyxCore\Core\Foundation\Database\EntityManager;
-
-use EphenyxShop\phenyxCore\Core\Foundation\Database\Core_Foundation_Database_DatabaseInterface;
-use EphenyxShop\phenyxCore\Core\Foundation\Database\Core_Foundation_Database_Exception;
 /**
  * Class Core_Foundation_Database_EntityManager_QueryBuilder
  *

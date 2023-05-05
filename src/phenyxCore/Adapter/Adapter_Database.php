@@ -1,8 +1,5 @@
 <?php
 
-namespace EphenyxShop\phenyxCore\Adapter;
-
-use EphenyxShop\phenyxCore\Core\Foundation\Database\Core_Foundation_Database_DatabaseInterface;
 /**
  * Class Adapter_Database
  *

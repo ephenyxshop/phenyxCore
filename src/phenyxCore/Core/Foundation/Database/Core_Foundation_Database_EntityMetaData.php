@@ -1,7 +1,5 @@
 <?php
 
-namespace EphenyxShop\phenyxCore\Core\Foundation\Database;
-
 /**
  * Class Core_Foundation_Database_EntityMetaData
  *

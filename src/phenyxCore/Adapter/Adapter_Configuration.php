@@ -1,8 +1,5 @@
 <?php
 
-namespace EphenyxShop\phenyxCore\Adapter;
-
-use EphenyxShop\phenyxCore\Core_Business_ConfigurationInterface;
 /**
  * Class Adapter_Configuration
  *

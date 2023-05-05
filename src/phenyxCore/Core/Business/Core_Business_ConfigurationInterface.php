@@ -1,7 +1,5 @@
 <?php
 
-namespace EphenyxShop\PhenyxCore\Core;
-
 /**
  * Interface Core_Business_ConfigurationInterface
  *

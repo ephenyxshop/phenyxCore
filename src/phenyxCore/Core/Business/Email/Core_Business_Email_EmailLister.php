@@ -1,7 +1,5 @@
 <?php
 
-namespace EphenyxShop\phenyxCore\Core\Email;
-
 class Core_Business_Email_EmailLister {
 
     // @codingStandardsIgnoreEnd

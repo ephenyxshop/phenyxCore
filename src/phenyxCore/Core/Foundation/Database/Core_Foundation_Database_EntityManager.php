@@ -1,12 +1,5 @@
 <?php
 
-namespace EphenyxShop\phenyxCore\Core\Foundation\Database;
-
-use EphenyxShop\phenyxCore\Core\Foundation\Database\Core_Foundation_Database_DatabaseInterface;
-use EphenyxShop\phenyxCore\Core\Business\Core_Business_ConfigurationInterface;
-use EphenyxShop\phenyxCore\Adapter\Adapter_EntityMetaDataRetriever;
-use EphenyxShop\phenyxCore\Core\Foundation\Database\Core_Foundation_Database_EntityInterface;
-
 /**
  * Class Core_Foundation_Database_EntityManager
  */

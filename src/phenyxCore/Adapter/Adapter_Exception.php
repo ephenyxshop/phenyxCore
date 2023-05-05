@@ -1,7 +1,5 @@
 <?php
 
-namespace EphenyxShop\phenyxCore\Adapter;
-
 /**
  * Class Adapter_Exception
  *

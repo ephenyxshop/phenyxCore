@@ -1,9 +1,5 @@
 <?php
 
-namespace EphenyxShop\phenyxCore\Adapter;
-
-use EphenyxShop\phenyxCore\Adapter\Adapter_Exception;
-use EphenyxShop\phenyxCore\Core\Foundation\IoC\Core_Foundation_IoC_Container;
 /**
  * Class Adapter_ServiceLocator
  */

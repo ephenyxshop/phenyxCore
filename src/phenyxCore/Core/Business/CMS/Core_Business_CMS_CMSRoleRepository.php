@@ -1,9 +1,5 @@
 <?php
 
-namespace EphenyxShop\phenyxCore\Core\Business;
-
-use EphenyxShop\phenyxCore\Core\Foundation\Database;
-
 /**
  * Class Core_Business_CMS_CMSRoleRepository
  *

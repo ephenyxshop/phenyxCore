@@ -1,9 +1,5 @@
 <?php
 
-namespace EphenyxShop\phenyxCore\Core\Foundation\Database;
-
-use EphenyxShop\phenyxCore\Core\Foundation\Exception;
-
 /**
  * Class Core_Foundation_Database_Exception
  *
