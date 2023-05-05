@@ -1,0 +1,22 @@
+{
+    "name": "ephenyxshop/phenyxcore",
+    "description": "PhenyxCore - Deploying ",  
+    "homepage": "https://github.com/ephenyxshop/phenyxCore",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeff Hunger",
+            "homepage": "https://ephenyx.com"
+        }
+       
+    ],    
+    "require": {
+        "php": "^8.0",
+    },   
+    "autoload": {
+        "psr-4": {
+            "EphenyxShop\\PhenyxCore\\": "src/PhenyxCore"
+        }
+    }
+}
