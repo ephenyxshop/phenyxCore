@@ -15,7 +15,7 @@
     },   
     "autoload": {
         "psr-4": {
-            "EphenyxShop\\PhenyxCore\\": "src/PhenyxCore"
+            "EphenyxShop\\phenyxCore\\": "src/PhenyxCore"
         }
     }
 }
