@@ -12,7 +12,7 @@ class Core_Business_ContainerBuilder {
     // @codingStandardsIgnoreEnd
 
     /**
-     * Construct PrestaShop Core Service container
+     * Construct PhenyxDigital Core Service container
      *
      * @return Core_Foundation_IoC_Container
      * @throws Core_Foundation_IoC_Exception
