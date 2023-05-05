@@ -4,7 +4,7 @@
  *
  * @since 2.1.0.0
  */
-class ParamToolBarCore {	
+class ParamToolBar {	
     
     public $items = [];	
 

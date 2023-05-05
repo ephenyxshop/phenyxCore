@@ -5,7 +5,7 @@
  *
  * @since 2.1.0.0
  */
-class ParamContextMenuCore {
+class ParamContextMenu {
 
 	public $contextMenuClass;
     

@@ -5,7 +5,7 @@
  *
  * @since 2.1.0.0
  */
-class ParamGridCore {
+class ParamGrid {
 
 	public $paramClass;
 
