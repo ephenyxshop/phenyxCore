@@ -1,9 +1,5 @@
 <?php
 
-namespace EphenyxShop\phenyxCore\Core\Foundation\IoC;
-
-use EphenyxShop\phenyxCore\Core\Foundation\IoC\Core_Foundation_IoC_Exception;
-
 /**
  * Class Core_Foundation_IoC_Container
  *
