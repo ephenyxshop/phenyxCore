@@ -5,7 +5,7 @@
  *
  * @since 1.6.6.3
  */
-abstract class PhenyxControllerCore {
+abstract class PhenyxController {
 
     public static $php_errors = [];
 
